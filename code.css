@@ -1,0 +1,29 @@
+h1{
+    background-color:pink; font-size:50px;
+    font-family: 'Franklin Gothic Medium'; color:black;
+}
+a:link{
+    color:yellow;font-size:50px;
+}
+a:visited{
+    color:green;
+}
+a:hover{
+    color:blue;
+}
+a:focus{
+    color:brown;
+}
+input:focus{
+    color:rgb(red, green, blue)
+}
+input:focus{
+    background-color:pink;
+    
+}
+h2{
+    font-size:medium
+}
+*{
+    background-color:whitesmol
+}
